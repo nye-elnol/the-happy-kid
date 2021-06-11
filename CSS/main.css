@@ -41,6 +41,24 @@ body {
   line-height: 1.6;
 }
 
+#bckTop {
+  display: none;
+  position: fixed; 
+  bottom: 33px; 
+  right: 55px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: transparent;
+  color: var(--clr-b); 
+  cursor: pointer; 
+  padding: 0; 
+  font-size: 35px; 
+}
+
+#bckTop:hover {
+  color:rgba(0, 0, 0, .15); 
+}
 
 section { padding: 4em 1.5em; }
 
