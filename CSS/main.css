@@ -44,8 +44,8 @@ body {
 #bckTop {
   display: none;
   position: fixed; 
-  bottom: 33px; 
-  right: 55px; 
+  bottom: 1.5rem; 
+  right: 2rem; 
   z-index: 99; 
   border: none; 
   outline: none; 
@@ -53,7 +53,7 @@ body {
   color: var(--clr-b); 
   cursor: pointer; 
   padding: 0; 
-  font-size: 35px; 
+  font-size: 3rem; 
 }
 
 #bckTop:hover {
