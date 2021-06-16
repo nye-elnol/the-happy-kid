@@ -1,4 +1,4 @@
-# the-happy-kid
+# The Happy Kid
 
 ## This repo can be described as an ID of Stefan Limame
 
